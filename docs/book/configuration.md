@@ -68,7 +68,7 @@ multiple services.
 > Services can be defined as an array or object. When defined as an object, the
 > object keys override the `services[_].name` fields.
 
-## Miscellaenous
+## Miscellaneous
 
 | Field | Type | Required | Description |
 | --- | --- | --- | --- |

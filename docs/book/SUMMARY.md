@@ -76,7 +76,7 @@
 * [Configuration Reference](configuration.md)
   * [Example](configuration.md#example)
   * [Services](configuration.md#services)
-  * [Miscellaneous](configuration.md#miscellaenous)
+  * [Miscellaneous](configuration.md#miscellaneous)
   * [Bundles](configuration.md#bundles)
   * [Status](configuration.md#status)
   * [Decision Logs](configuration.md#decision-logs)
